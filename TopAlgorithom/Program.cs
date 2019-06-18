@@ -7,6 +7,7 @@ namespace TopAlgorithom
         static void Main(string[] args)
         {
            new InsertionSort().Perform();
+           new SelectionSort().Perform();
            Console.ReadLine();
         }
     }
