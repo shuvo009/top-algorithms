@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TopAlgorithom
+namespace TopAlgorithms
 {
     /// <summary>
     /// The idea is to divide the array into two subsets – sorted sublist and unsorted sublist.

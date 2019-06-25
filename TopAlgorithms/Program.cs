@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TopAlgorithom
+namespace TopAlgorithms
 {
     class Program
     {
@@ -8,6 +8,7 @@ namespace TopAlgorithom
         {
            new InsertionSort().Perform();
            new SelectionSort().Perform();
+           new BubbleSort().Perform();
            Console.ReadLine();
         }
     }

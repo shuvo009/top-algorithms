@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace TopAlgorithom
+namespace TopAlgorithms
 {
     /// <summary>
     /// The idea is to divide the array into two subsets – sorted subset and unsorted subset.
