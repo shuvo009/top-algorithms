@@ -6,10 +6,11 @@ namespace TopAlgorithms
     {
         static void Main(string[] args)
         {
-           new InsertionSort().Perform();
-           new SelectionSort().Perform();
-           new BubbleSort().Perform();
-           Console.ReadLine();
+            new InsertionSort().Perform();
+            new SelectionSort().Perform();
+            new BubbleSort().Perform();
+            new MargeSort().Perform();
+            Console.ReadLine();
         }
     }
 }
