@@ -10,6 +10,7 @@ namespace TopAlgorithms
             new SelectionSort().Perform();
             new BubbleSort().Perform();
             new MargeSort().Perform();
+            new QuickSort().Perform();
             Console.ReadLine();
         }
     }
