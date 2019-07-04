@@ -6,5 +6,6 @@ Here I implemented Top/most uses Algorithms and data structures using .Net Core 
 3. [Bubble Sort Algorithm](https://github.com/shuvo009/top-algorithms/blob/master/TopAlgorithms/BubbleSort.cs)
 4. [Marge Sort Algorithm](https://github.com/shuvo009/top-algorithms/blob/master/TopAlgorithms/MargeSort.cs)
 4. [Quick Sort Algorithm](https://github.com/shuvo009/top-algorithms/blob/master/TopAlgorithms/QuickSort.cs)
+4. [Binary Search Algorithm](https://github.com/shuvo009/top-algorithms/blob/master/TopAlgorithms/BinarySearch.cs)
 
 ## Data Structures
