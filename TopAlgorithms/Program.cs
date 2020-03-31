@@ -12,6 +12,7 @@ namespace TopAlgorithms
             new MargeSort().Perform();
             new QuickSort().Perform();
             new BinarySearch().Perform();
+            new SortStringWithNumber().Perform();
             Console.ReadLine();
         }
     }
